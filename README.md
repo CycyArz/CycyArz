@@ -1,5 +1,9 @@
 ### Hi there 👋
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CycyArz/count.svg?"  />
+</div>
 
+###
 <!--
 **CycyArz/CycyArz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
